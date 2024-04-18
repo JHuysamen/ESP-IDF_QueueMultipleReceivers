@@ -16,6 +16,7 @@
 
 #define NUM_OF_DATA 15
 
+//first commit
 
 gpio_config_t LED_GPIOConfig;     // struct to define GPIO config
 gpio_config_t PB_GPIOConfig;
